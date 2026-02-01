@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
 # License Summary (Non-Binding)
 
 This repository uses a split-license model.
