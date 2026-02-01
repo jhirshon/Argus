@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
 # Argus
 
 A governed human–AI execution architecture for high-stakes work.
