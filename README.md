@@ -7,7 +7,7 @@ A governed human–AI execution architecture for high-stakes work.
 This project uses a split-license model:
 
 - **Code** (all executable software, scripts, and tooling) is licensed under  
-  **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+  **GNU Affero General Public License v3.0**.
 
 - **Non-code content** (paper text, documentation, diagrams, figures, and
   conceptual materials) is licensed under  
